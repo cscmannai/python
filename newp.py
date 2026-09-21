@@ -1,4 +1,4 @@
-a=int(input("5"))
-b=int(input("5"))
+a=int(input("enter value"))
+b=int(input("enter value"))
 c=a+b
-print(add="c")
+print(f"add={c}")
